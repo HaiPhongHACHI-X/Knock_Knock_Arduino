@@ -11,3 +11,5 @@ Here is solution.
 
 https://user-images.githubusercontent.com/93575372/222034742-a9303887-b9d9-40f5-837e-27504ca98fb0.mp4
 
+# Other
+Hardware will be uploaded later
